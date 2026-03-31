@@ -9,8 +9,13 @@
 // =============================================================
 
 const projects = [
-  // ADD YOUR ENTRY HERE - copy the object below as your template
-
+{
+    member: "Prem",
+    project: "AAA Project",
+    description: "An online store selling power banks and headphones.",
+    status: "in-progress",
+    github: "https://github.com/your-username/your-repo",
+  },
   {
     member: "Team Lead",
     project: "DevTeam Hub",
